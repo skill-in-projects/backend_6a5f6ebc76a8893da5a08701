@@ -4,7 +4,11 @@
 
 The database connection string is provided by the platform and available in the Squad Room project info. Use it with pgAdmin or DBeaver to inspect your schema locally.
 
-**Swagger API Tester URL:** /swagger
+## Web API
+
+**WebApi URL:** https://webapi6a5f6ebc76a8893da5a08701-production.up.railway.app
+
+**Swagger API Tester URL:** https://webapi6a5f6ebc76a8893da5a08701-production.up.railway.app/swagger
 
 ## Google APIs (Gemini, Maps, Speech-to-Text)
 
